@@ -17,6 +17,14 @@
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
+We hebben als groepsopdracht een website ontworpen en gemaakt met Node en data uit de whois.fdnd.nl API.
+
+Groepsleden:
+* [Kaan](https://github.com/KaanKalmi/connect-your-tribe-squad-page)
+* [Damian](https://github.com/DamianR2004/connect-your-tribe-squad-page)
+* [Annelinde](https://github.com/annelinderaadsheer/connect-your-tribe-squad-page)
+  
+
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 * HTML & CSS
