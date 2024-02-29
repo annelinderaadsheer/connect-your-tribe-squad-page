@@ -1,6 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Squadpage
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
@@ -19,13 +19,30 @@
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+* HTML & CSS
+* Javascript
+* NodeJS
 
 ## Installatie
 <!-- Bij Installatie staat stap-voor-stap beschreven hoe je de development omgeving moet inrichten om aan de repository te kunnen werken. -->
 
 ## Gebruik
 
+### Node:
+
+Node.js is een manier om JavaScript te gebruiken buiten de internetbrowser. Normaal draait JavaScript alleen in browsers, maar met Node.js kun je het ook gebruiken op je computer of server. Het is bedoeld om snel software te maken die werkt via netwerken, zoals websites en servers.
+
+### Express:
+
+Met Express kun je functies instellen om te bepalen wat er gebeurt wanneer een gebruiker een bepaalde URL bezoekt. 
+
+### EJS:
+
+EJS is een manier om websites te maken met behulp van JavaScript. Je kunt stukjes JavaScript toevoegen aan de HTML, zodat je verschillende logica kunt gebruiken om de inhoud van de webpagina's aan te passen. Het helpt om webpagina's interactief te maken, bijvoorbeeld door verschillende informatie te laten zien op basis van gebruikersacties of gegevens uit een database.
+
 ## Bronnen
+
+* Practicum over de Squapage met NodeJS van Joost.
 
 ## Licentie
 
