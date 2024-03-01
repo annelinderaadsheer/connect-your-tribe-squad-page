@@ -3,6 +3,12 @@
 # Squadpage
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
+<img width="1410" alt="Scherm­afbeelding 2024-03-01 om 10 18 45" src="https://github.com/annelinderaadsheer/connect-your-tribe-squad-page/assets/144004885/e51ec3e1-59e8-4b24-9343-36112d054058">
+
+<img width="1470" alt="Scherm­afbeelding 2024-03-01 om 10 14 46" src="https://github.com/annelinderaadsheer/connect-your-tribe-squad-page/assets/144004885/03295188-57f6-404e-ae5c-6c634afd8725">
+
+<img width="514" alt="Scherm­afbeelding 2024-03-01 om 10 16 10" src="https://github.com/annelinderaadsheer/connect-your-tribe-squad-page/assets/144004885/1859c233-b3db-4e62-8631-8aeb8de18b2e">
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
